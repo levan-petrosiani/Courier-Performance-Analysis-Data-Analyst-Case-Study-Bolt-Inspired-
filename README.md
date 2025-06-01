@@ -86,7 +86,7 @@ These individuals may be selectively rejecting orders, overwhelmed, or affected 
 
 ## 🙋‍♂️ About Me
 
-I'm Levan, a second-year Computer Science student passionate about turning data into decisions. I'm currently pursuing Microsoft’s PL-300 certification in Power BI and building a strong portfolio of real-world analytics work.
+I'm Levan, a second-year Computer Science student passionate about turning data into decisions. I'm currently pursuing Microsoft’s PL-300T00-A certification in Power BI and building a strong portfolio of real-world analytics work.
 
 Let’s connect on [LinkedIn](www.linkedin.com/in/levan-petrosiani) or feel free to check out my other [projects](https://github.com/levan-petrosiani?tab=repositories)!
 
