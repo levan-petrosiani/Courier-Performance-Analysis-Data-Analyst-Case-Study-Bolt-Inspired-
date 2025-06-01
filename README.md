@@ -79,8 +79,10 @@ These individuals may be selectively rejecting orders, overwhelmed, or affected 
 
 ## 📂 File Structure
 
-- `Courier_Performance_Analysis.xlsx` — Main analysis with calculated metrics, visuals, and conditional formatting
+- `Juniour Analyst Home task completed.xlsx` — Main analysis with calculated metrics, visuals, and conditional formatting
+- `Juniour Analyst Home task.xlsx` — raw file with no analysis done, the task itself
 - `README.md` — Project documentation (you’re reading it!)
+- `Courier_Performance_Analysis_Levan.txt` — polished text version of the case study presentation summary
 
 ---
 
